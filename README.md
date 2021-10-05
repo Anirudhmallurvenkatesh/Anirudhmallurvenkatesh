@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh.M.V</h1>
 <h3 align="center">Im currently working as a data analyst in United Health Group.I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis.</h3>
 
-Skills: 
+Skills:
+
  Languages:Java,Python, R, SQL.
 
  Frameworks: Bootstrap, Streamlit
