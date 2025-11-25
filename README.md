@@ -1,18 +1,25 @@
 <h1 align="center">Hi 👋, I'm Anirudh.M.V</h1>
-<h3 align="center">Im currently working as a Clinical data analytics engineer in OM1.I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis.</h3>
+<h3 align="center"> I’m a Clinical Data Analytics Engineer at OM1 transitioning into Data Engineering & DevOps. I enjoy solving data problems, automating workflows, and building scalable data solutions.</h3>
 
-Skills:
+Interests:
 
- Languages:Java,Python, R, SQL.
+Data Engineering (ETL, pipelines, cloud data platforms)
 
- Frameworks: Bootstrap, Streamlit
+DevOps (Docker, CI/CD, AWS)
 
- Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Pycaret, Tensorflow, FBProphet, Keras
+Cloud Infrastructure & Automation
 
- Data Analysis: Advance Excel, Tableau, Exploratory Data Analysis,NDB(network database).
+Python, SQL, Big Data Tools
 
- Machine Learning:Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, Naïve Bayes, K-NN, Principle Component Analysis (PCA), Association Rules,              Recommendation System, clustering techniques, XGBOOST etc.
+What I’m working on:
 
- Databases:MySql, Mariadb, MangoDB, PostgreSql
+Building end-to-end data pipeline projects
 
- IDEs used:PyCharm, Spyder, Jupyter Notebook,etc.
+Learning AWS + Terraform + Kubernetes
+
+Exploring best practices in cloud architecture
+
+Let’s connect & build something impactful!
+
+
+ 
